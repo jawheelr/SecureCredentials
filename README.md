@@ -23,6 +23,7 @@ This project consists of two scripts:
 
 ## 🧱 Project Structure
 
+```
 .
 ├── assets/
 │   └── usage.md
@@ -34,7 +35,8 @@ This project consists of two scripts:
 │   ├── SecureCredentials.sh   # Encrypt credentials (interactive)
 │   └── decryptblob-2.sh       # Decrypt blob (CLI)
 └── README.md
-``
+```
+
 
 ***
 
