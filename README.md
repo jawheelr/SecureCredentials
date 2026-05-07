@@ -206,7 +206,7 @@ Contributions are welcome! Feel free to:
 
 ## 📄 License
 
-MIT License (or specify your preferred license)
+MIT License
 
 ***
 
@@ -216,9 +216,3 @@ MIT License (or specify your preferred license)
 Sr Infrastructure Engineer
 
 ***
-
-If you want, I can also:
-
-*   turn this into a polished GitHub repo (badges, releases, examples)
-*   refactor your scripts for correctness/security (there are a few bugs worth fixing)
-*   or add a proper CLI wrapper with flags instead of editing variables manually
