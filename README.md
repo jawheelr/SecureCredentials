@@ -42,7 +42,7 @@ This project consists of two scripts:
 
 ## 🚀 How It Works
 
-### Encryption Flow (`SecureCredentials.sh`)
+### Encryption Flow (`blobCreation.sh`)
 
 1.  Prompts user (via SwiftDialog) for:
     *   Username
@@ -75,7 +75,7 @@ This project consists of two scripts:
 
 ***
 
-### Decryption Flow (`decryptblob-2.sh`)
+### Decryption Flow (`blobDecryption.sh`)
 
 1.  Accepts base64-encoded blob as input
 2.  Extracts:
