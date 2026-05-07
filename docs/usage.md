@@ -57,7 +57,7 @@ _Username or password missing._
 🔐 Encryption Process
 Once valid input is provided, the script performs:
 1. JSON Payload Creation
-JSON{  "secret": {    "u": "username",    "p": "password"  }}Show more lines
+JSON{  "secret": {    "u": "username",    "p": "password"  }}
 
 2. Key Derivation
 Algorithm: PBKDF2
