@@ -17,7 +17,7 @@ SwiftDialog (auto-installed if missing)
 
 🚀 Running the Script
 chmod +x scripts/blobCreation.sh  <br>
-./<pathToFile>/blobCreation.sh
+./pathToFile/blobCreation.sh
 
 🖥️ User Workflow
 1. SwiftDialog Installation
