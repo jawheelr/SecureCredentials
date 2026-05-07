@@ -25,9 +25,9 @@ This project consists of two scripts:
 
 .
 ├── assets/
-│   └── usage.md  
+│   └── usage.md
 ├── docs/
-│   └── usage.md  
+│   └── usage.md
 ├── examples/
 │   └── sample_run.md
 ├── scripts/
