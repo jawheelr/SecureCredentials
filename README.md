@@ -26,7 +26,7 @@ This project consists of two scripts:
 ```
 .
 ├── assets/
-│   └── usage.md
+│   └── images
 ├── docs/
 │   └── usage.md
 ├── examples/
