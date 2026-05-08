@@ -215,7 +215,7 @@ rm -f "$PLAINTEXT" "$CIPHERTEXT"
 # Display Results
 ########################################################
 RESULTS=$(cat <<EOF
-_Encryption complete.
+Encryption complete.
 
 ### PIN:
 :3498db[${PIN}]
