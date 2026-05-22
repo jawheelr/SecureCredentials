@@ -1,6 +1,6 @@
 This "application" (really a script) is made to run directly via powershell. 
 
-**Currently working on a way to make it run via Company Portal**
+_**Currently working on a way to make it run via Company Portal**_
 
 It will:
 - Prompt for a PIN (creates a new or allows for an existing to generate a new blob for an existing PIN).
