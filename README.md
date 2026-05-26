@@ -32,7 +32,7 @@ This project consists of two scripts:
 ├── examples/
 │   └── sample_run.md
 ├── scripts/
-│   ├── Windows
+│   └── Windows
 │      ├── blobCreation.ps1   # Encrypt credentials (interactive)
 │      └── blobDecryption.ps1       # Decrypt blob (CLI)
 │   └── macOS
