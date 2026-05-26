@@ -32,8 +32,12 @@ This project consists of two scripts:
 ├── examples/
 │   └── sample_run.md
 ├── scripts/
-│   ├── blobCreation.sh   # Encrypt credentials (interactive)
-│   └── blobDecryption.sh       # Decrypt blob (CLI)
+│   ├── Windows
+│      ├── blobCreation.sh   # Encrypt credentials (interactive)
+│      └── blobDecryption.sh       # Decrypt blob (CLI)
+│   └── macOS
+│      ├── blobCreation.sh   # Encrypt credentials (interactive)
+│      └── blobDecryption.sh       # Decrypt blob (CLI)
 └── README.md
 ```
 
