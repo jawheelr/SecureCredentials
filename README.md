@@ -1,10 +1,10 @@
 # 🔐 SecureCredentials
 
-A lightweight Bash-based utility for securely encrypting and decrypting credentials using **AES‑256‑CBC** with **PBKDF2 key derivation**.
+A lightweight utility for securely encrypting and decrypting credentials using **AES‑256‑CBC** with **PBKDF2 key derivation**.
 
 This project consists of two scripts:
 
-*   `blobCreation.sh` → Interactive credential encryption (with SwiftDialog UI)
+*   `blobCreation.sh` → Interactive credential encryption
 *   `blobDecryption.sh` → Command-line decryption of encrypted blobs
 
 ***
@@ -15,8 +15,8 @@ This project consists of two scripts:
 *   ✅ PBKDF2 (SHA-256) key derivation
 *   ✅ Random salt + IV for each encryption
 *   ✅ JSON-based payload structure
-*   ✅ Optional GUI using **SwiftDialog**
-*   ✅ Portable Bash implementation (macOS/Linux-friendly)
+*   ✅ Optional GUI
+*   ✅ Portable implementation
 *   ✅ Base64-encoded encrypted blob output
 
 ***
