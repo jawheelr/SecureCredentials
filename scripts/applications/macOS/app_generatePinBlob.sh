@@ -4,7 +4,6 @@
 # Payload Encryption Utility + SwiftDialog Prompt
 # AES-256-CBC blob encryption
 #
-# PowerShell Compatible
 # - PBKDF2-HMAC-SHA1
 # - AES-256-CBC
 # - PKCS7 Padding
